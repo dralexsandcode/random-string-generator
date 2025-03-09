@@ -3,6 +3,8 @@
   "description": "A simple utility for generating random strings",
   "type": "library",
   "license": "MIT",
+  "minimum-stability": "stable",
+  "prefer-stable": true,
   "autoload": {
     "psr-4": {
       "SanPack\\RandomStringGenerator\\": "src/"
