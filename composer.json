@@ -1,0 +1,19 @@
+{
+  "name": "dralexsand/random-string-generator",
+  "description": "A simple utility for generating random strings",
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "autoload": {
+    "psr-4": {
+      "SanPack\\RandomStringGenerator\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "dralexsandcode"
+    }
+  ],
+  "require": {}
+}
