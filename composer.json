@@ -2,8 +2,6 @@
   "name": "dralexsandcode/random-string-generator",
   "description": "A simple utility for generating random strings",
   "type": "library",
-  "license": "MIT",
-  "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
       "DrAlexSandCode\\RandomStringGenerator\\": "src/"
