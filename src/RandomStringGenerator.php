@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace SanPack\RandomStringGenerator;
+namespace DrAlexSandCode\RandomStringGenerator;
 
 class RandomStringGenerator
 {
